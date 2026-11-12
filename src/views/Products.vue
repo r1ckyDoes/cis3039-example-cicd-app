@@ -35,6 +35,7 @@ const formatPrice = (p?: number) =>
       </li>
     </ul>
   </div>
+  <p>Hello World</p>
 </template>
 
 <style scoped>
